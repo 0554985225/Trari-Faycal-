@@ -1,11 +1,8 @@
+
 <!DOCTYPE html>
 <html lang="ar">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="فيصل جابوني - لاعب كرة قدم من مزغران، الجزائر.">
-  <meta name="keywords" content="فيصل جابوني, Trari Faycal, كرة قدم, مزغران, مستغانم, GitHub, السيرة الذاتية">
-  <meta name="author" content="Faycal Japoni">
   <meta name="google-site-verification" content="1YgOVSYZJfzlYsYJrqKR-aSEWK5TYZlq5Lf5YK7GuKA" />
   <title>فيصل جابوني - السيرة الذاتية</title>
   <style>
@@ -18,21 +15,12 @@
       line-height: 1.6;
       text-align: center;
     }
-    h1 {
-      color: #d11b1b;
-    }
+    h1 { color: #d11b1b; }
     .images img {
       width: 250px;
       margin: 10px;
       border-radius: 12px;
       box-shadow: 0 0 10px rgba(0,0,0,0.3);
-    }
-    .qr {
-      margin-top: 20px;
-    }
-    .info {
-      margin-top: 20px;
-      font-size: 18px;
     }
     .fr {
       direction: ltr;
@@ -46,40 +34,31 @@
   </style>
 </head>
 <body>
-
   <h1>فيصل جابوني</h1>
   <h2>لاعب كرة قدم من مزغران - مستغانم</h2>
 
   <div class="images">
-    <img src="https://0554985225.github.io/Trari-Faycal-/images/photo1.jpg" alt="صورة 1">
-    <img src="https://0554985225.github.io/Trari-Faycal-/images/photo2.jpg" alt="صورة 2">
-    <img src="https://0554985225.github.io/Trari-Faycal-/images/photo3.jpg" alt="صورة 3">
+    <img src="https://github.com/user-attachments/assets/ee00711a-6560-4707-87d1-906d5b9f0804" alt="صورة 1">
+    <img src="https://github.com/user-attachments/assets/c0ec4dc6-0b81-4cfa-8ae9-ed4b5795fe96" alt="صورة 2">
   </div>
 
-  <div class="info">
-    <p>الاسم الكامل: طراري فيصل</p>
-    <p>اللقب: فيصل جابوني</p>
-    <p>المهنة: لاعب كرة قدم هاوٍ</p>
-    <p>المنطقة: مزغران - مستغانم، الجزائر</p>
-    <p>البريد الإلكتروني: nom045235078@gmail.com</p>
-  </div>
+  <p>الاسم الكامل: طراري فيصل</p>
+  <p>اللقب: فيصل الجابوني</p>
+  <p>المهنة: لاعب كرة قدم هاوٍ</p>
+  <p>المنطقة: مزغران - مستغانم</p>
+  <p>البريد الإلكتروني: nom045235078@gmail.com</p>
 
-  <div class="qr">
-    <h3>امسح كود QR لزيارة موقعي:</h3>
-    <img src="https://0554985225.github.io/Trari-Faycal-/images/faycal_japoni_qr.png" alt="QR Code" width="180">
-  </div>
+  <h3>رمز QR:</h3>
+  <img src="https://0554985225.github.io/Trari-Faycal-/images/faycal_japoni_qr.png" alt="QR Faycal Japoni" class="qr">
 
   <div class="fr">
-    <h2>Faycal Japoni - Joueur de football</h2>
-    <p>Nom complet: Trari Faycal</p>
-    <p>Profession: Joueur de football amateur</p>
-    <p>Région: Mazagran - Mostaganem, Algérie</p>
-    <p>Email: nom045235078@gmail.com</p>
-    <p>Scan le QR pour visiter mon site !</p>
+    <h2>Faycal Japoni - Joueur de Football</h2>
+    <p>Nom complet : Trari Faycal</p>
+    <p>Profession : Footballeur amateur</p>
+    <p>Région : Mazagran - Mostaganem, Algérie</p>
+    <p>Email : nom045235078@gmail.com</p>
   </div>
-
 </body>
-</html>![IMG_20250609_205731](https://github.com/user-attachments/assets/ee00711a-6560-4707-87d1-906d5b9f0804)
-![IMG_20240802_152250_462](https://github.com/user-attachments/assets/c0ec4dc6-0b81-4cfa-8ae9-ed4b5795fe96)
-![IMG_20240824_113523_003](https://github.com/user-attachments/assets/a081b333-9a05-47e3-b0a4-49c4380f5ded)
-![IMG_20241013_181123_924](https://github.com/user-attachments/assets/2769ab1a-bc1f-4302-aa06-d3017f905ca3)
+</html![IMG_20240802_152250_462](https://github.com/user-attachments/assets/9fda3ecf-6a0a-49c7-87b4-b1c99c93837d)
+![IMG_20240824_113523_003](https://github.com/user-attachments/assets/a6182e97-c529-4c11-8795-ea923d29cafe)
+>
