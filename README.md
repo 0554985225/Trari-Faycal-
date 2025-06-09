@@ -1,7 +1,8 @@
-index.html<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ar" dir="rtl">
-<head><meta name="google-site-verification" content="1YgOVSYZJfzlYsYJrqKR-aSEWK5TYZlq5Lf5YK7GuKA" />
+<head>
   <meta charset="UTF-8" />
+  <meta name="google-site-verification" content="1YgOVSYZJfzlYsYJrqKR-aSEWK5TYZlq5Lf5YK7GuKA" />
   <title>السيرة الذاتية - فيصل جابوني</title>
   <style>
     body {
