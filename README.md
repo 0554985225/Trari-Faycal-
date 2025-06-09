@@ -1,6 +1,6 @@
 index.html<!DOCTYPE html>
 <html lang="ar" dir="rtl">
-<head>
+<head><meta name="google-site-verification" content="1YgOVSYZJfzlYsYJrqKR-aSEWK5TYZlq5Lf5YK7GuKA" />
   <meta charset="UTF-8" />
   <title>السيرة الذاتية - فيصل جابوني</title>
   <style>
