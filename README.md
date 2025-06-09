@@ -1,3 +1,4 @@
+![IMG_20241013_181123_924](https://github.com/user-attachments/assets/95c1f428-e39e-4ce6-83be-b012acb60106)
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -86,11 +87,4 @@
   </div>
 
 </body>
-</html ![IMG_20240802_152250_462](https://github.com/user-attachments/assets/dc5fe90c-4183-4831-b7f5-a2bfc09dc534)
-![IMG_20250609_205731](https://github.com/user-attachments/assets/4657a9c9-9092-453a-a101-43d47a40161c)
-![IMG_20241013_181123_924](https://github.com/user-attachments/assets/431030ee-cad9-4f97-91ef-6503f600fc97)
-![IMG_20240802_152250_462](https://github.com/user-attachments/assets/762c49c7-9fdb-412a-9c20-d90058c1c44c)
-![IMG_1724495438467](https://github.com/user-attachments/assets/5213805b-097f-4c56-b69c-f9d49475c557)
-![IMG_20241013_181123_924](https://github.com/user-attachments/assets/79697462-4b20-4586-8d25-c0d1e8176308)
-![IMG_20250609_205731](https://github.com/user-attachments/assets/89e62fd6-940f-4314-8bc5-92734c0a46e3)
->
+</html>
