@@ -1,3 +1,7 @@
+![IMG_20241013_181123_924](https://github.com/user-attachments/assets/427c7074-dce8-4f61-90bc-23c106212cce)
+![IMG_20240824_113523_003](https://github.com/user-attachments/assets/5e88fb6b-990e-4c4e-b8ea-c884aa386046)
+![IMG_20250609_205731](https://github.com/user-attachments/assets/c55ea6b3-2e8a-49c3-8dc7-9ff22fc4a13f)
+![IMG_20240802_152250_462](https://github.com/user-attachments/assets/43b19920-2e4a-4937-9899-7367602181fa)
 
 # السيرة الذاتية - فيصل جابوني | CV Faycal Japoni
 
