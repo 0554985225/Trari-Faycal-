@@ -4,7 +4,7 @@
 ![IMG_20240824_113523_003](https://github.com/user-attachments/assets/bc9428be-a13f-4425-bc6c-e99bc674985f)
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
-<head>
+<head><meta name="google-site-verification" content="1YgOVSYZJfzlYsYJrqKR-aSEWK5TYZlq5Lf5YK7GuKA" />
   <meta charset="UTF-8">
   <title>فيصل جابوني - السيرة الذاتية</title>
   <meta name="google-site-verification" content="1YgOVSYZJfzlYsYJrqKR-aSEWK5TYZlq5Lf5YK7GuKA" />
